@@ -1,0 +1,88 @@
+python,5
+pandas,5
+markdown,5
+r,0
+llm,4
+datawrapper,4
+illustrator,4
+qgis,3
+mapbox,
+geojson.io,
+design,3
+scrollytelling,3
+ai2html,0
+javascript,0
+
+
+skill,project_01,project_02,project_03
+python,5,0,1
+pandas,5,0,0
+scraping,0,3,1
+markdown,5,2,2
+r,0,5,2
+llm,4,3,3
+datawrapper,4,0,0
+illustrator,4,4,4
+qgis,3,0,2
+mapbox,0,5,
+geojson.io,2,0,2
+design,4,3,3
+scrollytelling,3,0,4
+ai2html,0,0,3
+javascript,0,3,5
+d3,0,3,3
+observable,0,0,2
+
+
+Project 01: China
+
+Main skills:
+- Python and Jupyter Lab
+- QGIS
+- Datawrapper
+- Illustrator
+
+Wins:
+- LLM text classification
+
+Fails:
+- Mobile
+
+Possible upgrades:
+- Mapbox scrollytelling (city by city)
+
+Project 02: Brazil
+
+Main skills:
+- Scraping and automation
+- Mapbox GL JS
+- Illustrator
+
+Wins:
+- Ready for future news stories
+
+Fails:
+- Mapbox limitations
+
+Possible upgrades:
+- Color map by bank controllers
+
+Project 03:
+
+Main skills:
+- Javascript/SVG/d3
+- HTML
+- Illustrator/Premiere/Photoshop
+- Page inspection
+
+Wins:
+- Web interactives
+- Taming Observable
+
+Fails:
+- The freaking progress fill
+
+Possible upgrades:
+- The freaking progress fill
+- Text/audio interaction
+- Horizontal video gallery
