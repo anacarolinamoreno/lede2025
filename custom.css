@@ -1,0 +1,23 @@
+body {
+  background-color: #001f3f; /* Dark navy background */
+  color: #f0f0f0; /* Light text color for contrast */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d4af37; /* Gold color for headings */
+}
+
+a {
+  color: #d4af37; /* Gold color for links */
+}
+
+::selection {
+  background: #d4af37; /* Gold background for selected text */
+  color: #333; /* Dark text for better contrast when selected */
+}
+
+/* Optional: Style code blocks to maintain readability */
+pre, code {
+  background-color: #0a2d5a; /* Slightly lighter navy for code blocks */
+  color: #f0f0f0;
+}
